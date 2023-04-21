@@ -1,6 +1,6 @@
-Acknowledgement: Originally forked from https://github.com/ultralytics/yolov5 \n
-Changes: Add blur.py for blur attack and analyze.py/analyze2.py for analysis \n
-Usage: 
+Acknowledgement: Originally forked from https://github.com/ultralytics/yolov5\
+Changes: Add blur.py for blur attack and analyze.py/analyze2.py for analysis\
+Usage:
 1. Download to local directory
 2. Add image dataset directory within the project
 3. Install necessary environments and libraries such as Yolo, Cuda, Pytorch, etc. The step can be done through $ pip install -r requirements.txt
