@@ -1,5 +1,5 @@
-Acknowledgement: Originally forked from https://github.com/ultralytics/yolov5
-Changes: Add blur.py for blur attack and analyze.py/analyze2.py for analysis
+Acknowledgement: Originally forked from https://github.com/ultralytics/yolov5 \n
+Changes: Add blur.py for blur attack and analyze.py/analyze2.py for analysis \n
 Usage: 
 1. Download to local directory
 2. Add image dataset directory within the project
