@@ -82,9 +82,9 @@ def blur_attack(img):
     startY = midY - blurY
     endY = midY + blurY
 
-    theta = 200
-    delta = 200
-    L = 200
+    theta = 1.5
+    delta = 0
+    L = 3
     img = img[0]
     img = torch.from_numpy(img).permute(1, 2, 0)
     img = img.numpy().astype("uint8")
